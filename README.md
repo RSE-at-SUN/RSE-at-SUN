@@ -99,11 +99,13 @@ _RSE@SUN consists of Core Staff, Affiliated Members (Academic and Technical), an
    Software Sustainability Institute (SSI) International Fellow<br>   
    Hans Merensky Postdoctoral Fellow, RSE<br>    
    EucXylo Group for Advanced Modelling of Eucalypt Wood Formation<br>  
-   Department of Forest and Wood Science, Faculty of Agriscience</p>  
+   Department of Forest and Wood Science<br>
+   Faculty of Agriscience</p>  
 
    <p><b>DR JOHN COCKCROFT</b><br>  
    Managing Staff Scientist, RSE<br>  
-   Neuromechanics Unit (Human Movement Analysis), Stellenbosch University Central Analytical Facilities</p>  
+   Neuromechanics Unit (Human Movement Analysis)<br>
+   Stellenbosch University Central Analytical Facilities</p>  
    
 </blockquote>  
   </p>
@@ -117,24 +119,24 @@ The RSE@SUN Core Team are responsible for the overall operations of the Group, i
 <p>
 <blockquote>
 
-   <p>DR VITALIS LAGAT<br> 
+   <p><b>DR VITALIS LAGAT</b><br> 
    Postdoctoral Fellow (joint), RSE<br>  
    EucXylo Research Group, Department of Forestry and Wood Science<br>
    Faculty of Agriscience, with<br>  
    Mathematical and Theoretical Biosciences Group, Department of Mathematical Sciences<br>
    Faculty of Science</p> 
    
-   <p>DR LINDANI MOYO<br> 
+   <p><b>DR LINDANI MOYO</b><br> 
    Postdoctoral Fellow, RSE<br>  
    Department of Plant Pathology<br>
    Faculty of Agriscience</p> 
    
-   <p>DR MICHAEL RITCHIE<br>   
+   <p><b>DR MICHAEL RITCHIE</b><br>   
    Postdoctoral Researcher, RSE<br>    
    Internet of Things (IoT) Group<br>
    Faculty of Engineering</p> 
    
-   <p>DR TOMASZ J. SANKO (PhD, Eng.)<br>
+   <p><b>DR TOMASZ J. SANKO (PhD, Eng.)</b><br>
    Postdoctoral Fellow (joint), RSE<br>
    Centre for Epidemic Response and Innovation (CERI)<br>
    School of Data Science and Computational Thinking, with<br>
@@ -153,28 +155,33 @@ Embedded RSEs (including postdoctoral researchers engaged in RSE activities) are
 <p>
 <blockquote>
    
-   <p>PROF THINUS BOOYSEN<br>
+   <p><b>PROF THINUS BOOYSEN</b><br>
    Chair in the Internet of Things (IoT)<br> 
-   Internet of Things (IoT) Group, Faculty of Engineering</p>
+   Internet of Things (IoT) Group<br>
+   Faculty of Engineering</p>
    
-   <p>DR JUAN KLOPPER<br>
+   <p><b>DR JUAN KLOPPER</b><br>
    Research Fellow, Educator<br>
    School for Data Science and Computational Thinking<br>  
    Senior Researcher<br>  
-   Division of Epidemiology and Biostatistics, Department of Global Health, Faculty of Medicine and Health Sciences</p>  
+   Division of Epidemiology and Biostatistics, Department of Global Health<br>
+   Faculty of Medicine and Health Sciences</p>  
 
-   <p>PROF HUGH PATTERTON<br>  
+   <p><b>PROF HUGH PATTERTON</b><br>  
    Director, Group Leader (epigenomics, bioinformatics)<br> 
-   Center for Bioinformatics and Computational Biology (CBCB), Faculty of Science</p>  
+   Center for Bioinformatics and Computational Biology (CBCB)<br>
+   Faculty of Science</p>  
 
-   <p>PROF BRINK VAN DER MERWE<br>  
+   <p><b>PROF BRINK VAN DER MERWE</b><br>  
    Head of Division, Group Leader (algorithmics)<br>  
-   Division of Computer Science, Department of Mathematical Sciences, Faculty of Science</p>  
+   Division of Computer Science, Department of Mathematical Sciences<br>
+   Faculty of Science</p>  
 
-   <p>PROF BRUCE WATSON<br> 
+   <p><b>PROF BRUCE WATSON</b><br> 
    Joint Professor (cybersecurity, cryptography, AI, ML, program correctness, programming languages)<br>  
    School of Data Science and Computational Thinking, with<br>  
-   Department of Information Science, Faculty of Arts and Social Sciences</p>  
+   Department of Information Science<br>
+   Faculty of Arts and Social Sciences</p>  
 
 </blockquote>
 </p>
@@ -188,9 +195,10 @@ The Academic ARM (Affiliated RSE@SUN Members) are established **Stellenbosch Uni
 <p>
 <blockquote>
    
-   <p>MR GERHARD WAGENINGEN<br> 
+   <p><b>MR GERHARD WAGENINGEN</b><br> 
    Senior System Administrator<br>  
-   High Performance Computing (HPC), Stellenbosch University IT Infrastructure</p> 
+   High Performance Computing (HPC)<br>
+   Stellenbosch University IT Infrastructure</p> 
    
 </blockquote>
 </p>
