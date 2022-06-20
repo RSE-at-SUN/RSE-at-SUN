@@ -119,18 +119,27 @@ The RSE@SUN Core Team are responsible for the overall operations of the Group, i
 
    <p>DR VITALIS LAGAT<br> 
    Postdoctoral Fellow (joint), RSE<br>  
-   EucXylo Research Group, Department of Forestry and Wood Science, Faculty of Agriscience, with<br>  
-   Mathematical and Theoretical Biosciences Group, Department of Mathematical Sciences, Faculty of Science</p>  
+   EucXylo Research Group, Department of Forestry and Wood Science<br>
+   Faculty of Agriscience, with<br>  
+   Mathematical and Theoretical Biosciences Group, Department of Mathematical Sciences<br>
+   Faculty of Science</p> 
+   
+   <p>DR LINDANI MOYO<br> 
+   Postdoctoral Fellow, RSE<br>  
+   Department of Plant Pathology<br>
+   Faculty of Agriscience</p> 
    
    <p>DR MICHAEL RITCHIE<br>   
    Postdoctoral Researcher, RSE<br>    
-   Internet of Things (IoT) Group, Faculty of Engineering</p> 
+   Internet of Things (IoT) Group<br>
+   Faculty of Engineering</p> 
    
    <p>DR TOMASZ J. SANKO (PhD, Eng.)<br>
    Postdoctoral Fellow (joint), RSE<br>
    Centre for Epidemic Response and Innovation (CERI)<br>
    School of Data Science and Computational Thinking, with<br>
-   Division of Molecular Biology and Human Genetics (MBHG), Faculty of Medicine and Health Sciences</p>
+   Division of Molecular Biology and Human Genetics (MBHG)<br>
+   Faculty of Medicine and Health Sciences</p>
    
 </blockquote> 
 </p>
