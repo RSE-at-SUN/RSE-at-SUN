@@ -48,7 +48,7 @@ _RSE@SUN exists to provide Stellenbosch University staff and students with codin
    <br>
 </blockquote>
 
-<a href="https://carpentries.org/">**The Carpentries**</a> (Software / Data / Library Carpentry) is a non-profit organization dedicated to the development and dissemination of coding-related lessons for researchers (with workshops run by certified Instructors); **RSE@SUN staff are able to provide Carpentries workshops to Stellenbosch University staff and students**, and can provide extended workshops to promote use of the university's High Performance Computing (HPC) facilities.
+<a href="https://carpentries.org/">**The Carpentries**</a> (Software / Data / Library Carpentry) is a non-profit organization dedicated to the development and dissemination of coding-related lessons for researchers (with workshops run by certified Instructors); **RSE@SUN staff are able to provide Carpentries workshops to Stellenbosch University staff and students**, and can provide extended workshops to promote use of the university's High Performance Computing (HPC) facilities. Please complete <a href="https://rse-at-sun.github.io/Workshop-EOI/">this questionnaire</a> to be informed of upcoming workshops.
 <br>
 <br>
 
